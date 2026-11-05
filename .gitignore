@@ -1,0 +1,6 @@
+dev/
+test/
+train/
+*.wav
+.DS_Store
+.env
